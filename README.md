@@ -1,4 +1,4 @@
-# Product Showcase Explorer
+# Interactive Data Explorer
 
 A responsive React + Vite + TypeScript application that lets users browse and explore products from the **DummyJSON API**.  
 Includes filtering, sorting, pagination, and animated product detail views.  
