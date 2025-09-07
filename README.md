@@ -1,5 +1,3 @@
-1. Markdown
-   
 # Product Showcase Explorer
 
 A responsive React + Vite + TypeScript application that lets users browse and explore products from the **DummyJSON API**.  
